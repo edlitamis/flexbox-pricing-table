@@ -1,4 +1,4 @@
-# flexbox-pricing-table
+# Flexbox Pricing Table
 
 The objective is to build a responsive pricing table using HTML and CSS Flexbox (frontend only).
 
